@@ -1,0 +1,4 @@
+3:08 PM 1/21/2023
+
+This kata is a challenge where you have to do the operations in strings
+- you cannot convert into integers because then you would get an overflow
